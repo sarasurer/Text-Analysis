@@ -1,4 +1,4 @@
-package com.surer;
+
 
 /**
  * <h1>Text Analyser Stored Datas </h1>
