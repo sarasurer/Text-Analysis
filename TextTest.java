@@ -1,4 +1,4 @@
-package com.surer;
+
 import java.util.Scanner;
 
 /**
